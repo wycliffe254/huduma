@@ -64,7 +64,7 @@ HudumaApp is your gateway to a world of seamless service interactions! It empowe
 
 
 
-- **[Search for different coffees]**
+- **[Search for service]**
 - **[Add to Cart]**
 - **[Profile Section]**
 
